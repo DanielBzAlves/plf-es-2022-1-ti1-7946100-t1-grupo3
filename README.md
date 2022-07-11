@@ -13,7 +13,3 @@ O objetivo do nosso projeto é criar uma plataforma para poder auxiliar os idoso
 
 * João Luiz Silva Barbosa
 * Simone Álves Nogueira
-
-## Instruções de utilização
-
-Assim que a primeira versão do sistema estiver disponível, deverá complementar com as instruções de utilização. Descreva como instalar eventuais dependências e como executar a aplicação.
